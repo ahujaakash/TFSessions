@@ -1,0 +1,2 @@
+1. terraform state push -force E:/Terraform/backend/explicit.tfstate
+terraform state push command works 

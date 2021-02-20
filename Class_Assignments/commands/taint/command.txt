@@ -1,0 +1,1 @@
+terraform taint --state=E:/Terraform/backend/explicit.tfstate azurerm_sql_database.example

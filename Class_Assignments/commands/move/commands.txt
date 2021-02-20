@@ -1,0 +1,1 @@
+terraform state mv azurerm_sql_database.example azurerm_sql_database.mydb  

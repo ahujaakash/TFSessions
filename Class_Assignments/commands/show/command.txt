@@ -1,0 +1,1 @@
+terraform state show azurerm_resource_group.example
